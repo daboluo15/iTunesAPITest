@@ -2,7 +2,7 @@
 //  DetailedViewController.swift
 //  iTunesAPITest
 //
-//  Created by mahuiye on 11/8/15.
+//  Created by Bo Gao on 11/8/15.
 //  Copyright © 2015 Bo Gao. All rights reserved.
 //
 
